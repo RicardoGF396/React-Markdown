@@ -24,9 +24,9 @@ function App() {
   **bold text**
   `); 
 
-  marked.setOptions({
+  /* marked.setOptions({
     breaks: true
-  })
+  }) */
 
   return (
     <div id='container'>
